@@ -7,6 +7,9 @@ Card counting is a technique in which players can keep track of the overall valu
 This project aims to replicate this strategy using computer vision.
 
 ## SHORT DEMO
+https://github.com/user-attachments/assets/2519ae17-be0b-48f4-8ab6-8167bb1f5f3a
+
+
 
 ## MODEL
 The computer vision model used in this project is [YOLOV8s](https://github.com/ultralytics/ultralytics), which is custom trained with this [playing card dataset](https://universe.roboflow.com/augmented-startups/playing-cards-ow27d/dataset/3) from Roboflow.
