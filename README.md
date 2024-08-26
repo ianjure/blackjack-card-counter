@@ -6,12 +6,12 @@ Card counting is a technique in which players can keep track of the overall valu
 
 This project aims to replicate this strategy using computer vision.
 
-## DEMO
+## Demo
 https://github.com/user-attachments/assets/2519ae17-be0b-48f4-8ab6-8167bb1f5f3a
 
-## MODEL
+## Model
 The computer vision model used in this project is [YOLOV8s](https://github.com/ultralytics/ultralytics), which is custom trained with this [playing card dataset](https://universe.roboflow.com/augmented-startups/playing-cards-ow27d/dataset/3) from Roboflow.
 
-## PROJECT INSPIRATION
-[Poker Hand Detector](https://youtu.be/WgPbbWmnXJ8?si=L3i7tUnto4e-ugpT&t=11180)<br>
-[21 (The Movie)](https://en.wikipedia.org/wiki/21_(2008_film))
+<br>
+
+**This project is inspired by:** [Poker Hand Detector](https://youtu.be/WgPbbWmnXJ8?si=L3i7tUnto4e-ugpT&t=11180) & [21 (The Movie)](https://en.wikipedia.org/wiki/21_(2008_film))
