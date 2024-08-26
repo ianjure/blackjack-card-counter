@@ -1,4 +1,4 @@
-## PROJECT BACKGROUND
+# Blackjack Card Counter
 Blackjack is the most widely played casino banking game in the world. The object of the game is to get closer to 21 than the dealer without going over 21. If a hand goes over 21, it is called a “bust” or “break” and the wager is lost.
 [Read more.](https://en.wikipedia.org/wiki/Blackjack)
 
@@ -6,10 +6,8 @@ Card counting is a technique in which players can keep track of the overall valu
 
 This project aims to replicate this strategy using computer vision.
 
-## SHORT DEMO
+## DEMO
 https://github.com/user-attachments/assets/2519ae17-be0b-48f4-8ab6-8167bb1f5f3a
-
-
 
 ## MODEL
 The computer vision model used in this project is [YOLOV8s](https://github.com/ultralytics/ultralytics), which is custom trained with this [playing card dataset](https://universe.roboflow.com/augmented-startups/playing-cards-ow27d/dataset/3) from Roboflow.
